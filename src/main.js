@@ -16,7 +16,7 @@ import { meet } from '@googleworkspace/meet-addons/meet.addons';
 
 const CLOUD_PROJECT_NUMBER = '401338966474';
 const MAIN_STAGE_URL =
-  'http://localhost:8080/MainStage.html';
+  'https://pranavi79.github.io/meet-bot/src/MainStage.html';
 
 /**
  * Prepares the Add-on Side Panel Client, and adds an event to launch the
